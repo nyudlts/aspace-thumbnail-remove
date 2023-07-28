@@ -8,4 +8,4 @@ $ aspace-remove-thumbnails --config /path/to/go-aspace.yml --environment your-en
 --environment, environment key in config file of the instance to export from, required<br>
 --repository, the repository id<br>
 --resource, the resource id <br>
---test, run in test mode<br><br>
+--test, run in test mode<br>
